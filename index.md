@@ -1,4 +1,12 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://liascript.github.io/course/preview-lia.js"></script>
+  </head>
+</html>  
+
 ## Toad Pathway
+
+<preview-lia src="https://raw.githubusercontent.com/liaScript/docs/master/README.md"></preview-lia>
 
 |   | module link  | time estimate  |  learning objectives  | |
 |---|---|---|---|---|
